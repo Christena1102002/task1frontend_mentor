@@ -111,14 +111,10 @@ body{
         margin-top: 10px;
         font-size: 1rem;
     }
-    .text .newprice{
-        
-        font-size: 2.5rem;
-    }
+ 
     .text button{
         width: 80%;
         display: block;
-        
         margin: 20 auto;
     }
     .text .oldprice{
