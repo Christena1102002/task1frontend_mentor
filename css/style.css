@@ -104,12 +104,12 @@ body{
         letter-spacing: 4px
     }
     .text h1{
-        font-size: 4rem;
+       
         font-weight: 800;
     }
     .text .parag{
         margin-top: 10px;
-        font-size: 1.7rem;
+        font-size: 1rem;
     }
     .text .newprice{
         
@@ -118,11 +118,11 @@ body{
     .text button{
         width: 80%;
         display: block;
-        font-size: 1.8rem;
+        
         margin: 20 auto;
     }
     .text .oldprice{
-        font-size: 1.5rem;
+        font-size:0.8rem;
     }
 
 }
